@@ -1,0 +1,15 @@
+.btn {
+  display: flex;
+  width: 10rem;
+  height: 2.5rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2.5rem;
+  box-sizing: border-box;
+  overflow: hidden;
+  font-size: .7rem;
+  letter-spacing: .1rem;
+}
+.banner {
+  margin-bottom: 10px;
+}
